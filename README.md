@@ -10,36 +10,12 @@
 
 #### Soy Andrés Díaz! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Estudiante de Ingeniería de Sistemas | Desarrollador Full Stack especializado en integración de proyectos de IA (LLMs, chatbots y redes neuronales) | Python • Java • Spring Boot • PHP
+Estudiante de Ingeniería de Sistemas | Desarrollador Full Stack especializado en integración de proyectos de IA (LLMs, chatbots y redes neuronales)
 
 Tecnólogo ADSI con más de 3 años de experiencia en desarrollo full stack. Me apasiona la programación, el aprendizaje continuo y la implementación de nuevas tecnologías. Trabajo con metodologías ágiles, gestión de proyectos, desarrollo front-end y back-end, integración de modelos de IA, y administración de bases de datos y servicios en la nube.
 
 **Conéctate conmigo:** [LinkedIn](https://www.linkedin.com/in/andrés-diaz/) | **Email:** Andresdiaz10202@gmail.com
 
-<br>
-<hr>
-
-### Idiomas 🌎
-- Español (Nativo)
-- **Inglés** (Intermedio)
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
-<div align="center">
-    <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; Estadísticas de GitHub</h3>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndresDiaz10202&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresDiaz10202&theme=dark&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndresDiaz10202&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <div align="center">
@@ -135,7 +111,15 @@ Tecnólogo ADSI con más de 3 años de experiencia en desarrollo full stack. Me 
 </div>
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+### Idiomas 🌎
+- Español (Nativo)
+- **Inglés** (Intermedio)
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 <h2>📫 Conecta Conmigo</h2>
