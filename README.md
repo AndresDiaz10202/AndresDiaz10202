@@ -1,5 +1,11 @@
 <div align="center">
   
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hola, soy Andrés Díaz!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrés-diaz/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Andresdiaz10202@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573002989593)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hola%2C+bienvenido+a+mi+Github;Soy+Andrés+Díaz;Full+Stack+Developer+%26+AI)](https://git.io/typing-svg)
 
 <h3 align="center">Full Stack Developer | AI Specialist</h3>
@@ -8,13 +14,15 @@
 
 </div>
 
-#### Soy Andrés Díaz! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<br>
+
+### 👨‍💻 Sobre mí <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Estudiante de Ingeniería de Sistemas | Desarrollador Full Stack especializado en integración de proyectos de IA (LLMs, chatbots y redes neuronales)
 
 Tecnólogo ADSI con más de 3 años de experiencia en desarrollo full stack. Me apasiona la programación, el aprendizaje continuo y la implementación de nuevas tecnologías. Trabajo con metodologías ágiles, gestión de proyectos, desarrollo front-end y back-end, integración de modelos de IA, y administración de bases de datos y servicios en la nube.
 
-**Conéctate conmigo:** [LinkedIn](https://www.linkedin.com/in/andrés-diaz/) | **Email:** Andresdiaz10202@gmail.com
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
@@ -113,7 +121,6 @@ Tecnólogo ADSI con más de 3 años de experiencia en desarrollo full stack. Me 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
 ### Idiomas 🌎
 - Español (Nativo)
 - **Inglés** (Intermedio)
@@ -129,6 +136,9 @@ Tecnólogo ADSI con más de 3 años de experiencia en desarrollo full stack. Me 
   </a>
   <a href="mailto:Andresdiaz10202@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/573002989593">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://github.com/AndresDiaz10202">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
