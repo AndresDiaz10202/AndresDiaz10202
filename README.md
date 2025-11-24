@@ -1,14 +1,17 @@
 <div align="center">
   
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hola, soy Andrés Díaz!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Andrés%20Díaz&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+
+<h1>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+  ¡Hola! Bienvenido a mi GitHub
+</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrés-diaz/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Andresdiaz10202@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573002989593)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hola%2C+bienvenido+a+mi+Github;Soy+Andrés+Díaz;Full+Stack+Developer+%26+AI)](https://git.io/typing-svg)
-
-<h3 align="center">Full Stack Developer | AI Specialist</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Cloud+%7C+QA;Estudiante+de+Ingenier%C3%ADa+de+Sistemas;3%2B+a%C3%B1os+de+experiencia;Apasionado+por+la+IA+y+Machine+Learning)](https://git.io/typing-svg)
 
 [![](https://visitcount.itsvg.in/api?id=AndresDiaz10202&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -16,7 +19,9 @@
 
 <br>
 
-### 👨‍💻 Sobre mí <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### Sobre mí <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Estudiante de Ingeniería de Sistemas | Desarrollador Full Stack especializado en integración de proyectos de IA (LLMs, chatbots y redes neuronales)
 
@@ -145,3 +150,5 @@ Tecnólogo ADSI con más de 3 años de experiencia en desarrollo full stack. Me 
   </a>
 </p>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
