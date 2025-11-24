@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+welcome+to+my+Github+page;I'm+Andrés+Díaz;Full+Stack+Developer+%26+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hola%2C+bienvenido+a+mi+Github;Soy+Andrés+Díaz;Full+Stack+Developer+%26+AI)](https://git.io/typing-svg)
 
 <h3 align="center">Full Stack Developer | AI Specialist</h3>
 
@@ -8,60 +8,149 @@
 
 </div>
 
-#### I'm Andrés Díaz! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+#### Soy Andrés Díaz! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Software Engineering Student | Full Stack Developer specializing in AI integration | Python • Java • Spring Boot • PHP
+Estudiante de Ingeniería de Sistemas | Desarrollador Full Stack especializado en integración de proyectos de IA (LLMs, chatbots y redes neuronales) | Python • Java • Spring Boot • PHP
 
-It encourages me to develop my knowledge and skills for professional growth. I'm passionate about AI, Programming and learning.
+Tecnólogo ADSI con más de 3 años de experiencia en desarrollo full stack. Me apasiona la programación, el aprendizaje continuo y la implementación de nuevas tecnologías. Trabajo con metodologías ágiles, gestión de proyectos, desarrollo front-end y back-end, integración de modelos de IA, y administración de bases de datos y servicios en la nube.
 
-How to reach me **Andresdiaz10202@gmail.com**
+**Conéctate conmigo:** [LinkedIn](https://www.linkedin.com/in/andrés-diaz/) | **Email:** Andresdiaz10202@gmail.com
 
 <br>
 <hr>
 
-### Languages 🌎
-- Spanish (Native Speaker)
-- **English** (Intermediate)
+### Idiomas 🌎
+- Español (Nativo)
+- **Inglés** (Intermedio)
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <div align="center">
-    <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; GitHub Analytics</h3>
+    <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &nbsp; Estadísticas de GitHub</h3>
 </div>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=AndresDiaz10202&theme=dark&hide_border=true&include_all_commits=false&count_private=false" 
-         alt="GitHub Stats" />  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresDiaz10202&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=8" 
-         alt="Top Languages" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndresDiaz10202&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresDiaz10202&theme=dark&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndresDiaz10202&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <div align="center">
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages & Technologies</h2>
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Lenguajes & Tecnologías</h2>
 </div>
-
-<br>
-
-<p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=python,java,php,js,html,css,react,angular,laravel,spring" />
-  </a>
-</p>
 
 <br>
 
 <div align="center">
-<h2>Databases & Cloud</h2>
+<h3>Lenguajes de Programación</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,php,js,ts,c,cs,cpp,dotnet" />
+</p>
 </div>
 
+<br>
+
+<div align="center">
+<h3>Otras Herramientas</h3>
+</div>
+
+<div align="center">
 <p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,azure" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,angular,nodejs,bootstrap,laravel,spring" />
+</p>
+</div>
+
+<br>
+
+<div align="center">
+<table style="border: none;">
+  <tr>
+    <td align="center" style="border: none;">
+      <h6>Bases de Datos</h6>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+      <br>
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+    </td>
+    <td align="center" style="border: none;">
+      <h6>DevOps & Cloud</h6>
+      <img src="https://skillicons.dev/icons?i=aws,azure,git,github,gitlab,linux" />
+      <br>
+      <img src="https://img.shields.io/badge/AIX-0066FF?style=for-the-badge&logo=ibm&logoColor=white" />
+    </td>
+    <td align="center" style="border: none;">
+      <h6>Testing & QA</h6>
+      <img src="https://skillicons.dev/icons?i=selenium" />
+      <br>
+      <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+    </td>
+  </tr>
+</table>
+</div>
+
+<br>
+
+<div align="center">
+<h3>🧠 Inteligencia Artificial & Machine Learning</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Document_Intelligence-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+<p>
+  <strong>Modelos & Técnicas:</strong> Redes Neuronales Convolucionales (CNN) | LSTM | Random Forest | GPT | BERT | 
+  Embeddings | Búsqueda Semántica | Sistemas de Recomendación | Chatbots | NLP
+</p>
+</div>
+
+<br>
+
+<div align="center">
+<h3>📊 Metodologías & Prácticas</h3>
+<p>
+  <img src="https://img.shields.io/badge/Agile-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design_Sprint-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unit_Testing-25A162?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+</p>
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+<div align="center">
+<h2>📫 Conecta Conmigo</h2>
+<p>
+  <a href="https://www.linkedin.com/in/andrés-diaz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Andresdiaz10202@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/AndresDiaz10202">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+</div>
 
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
