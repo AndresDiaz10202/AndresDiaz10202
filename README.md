@@ -19,7 +19,7 @@
 
 Estudiante de Ingeniería de Sistemas | Desarrollador Full Stack especializado en integración de proyectos de IA (LLMs, chatbots y redes neuronales)
 
-Tecnólogo ADSI con más de 3 años de experiencia en desarrollo full stack. Me apasiona la programación, el aprendizaje continuo y la implementación de nuevas tecnologías. Trabajo con metodologías ágiles, gestión de proyectos, desarrollo front-end y back-end, integración de modelos de IA, y administración de bases de datos y servicios en la nube.
+Tecnólogo ADSI con más de 3 años de experiencia en desarrollo full stack. Me apasiona la programación, el aprendizaje continuo y la implementación de nuevas tecnologías. Trabajo con metodologías ágiles, gestión de proyectos, desarrollo front-end y back-end, integración de modelos de IA, administración de bases de datos y servicios en la nube.
 
 <br>
 
@@ -122,7 +122,7 @@ Tecnólogo ADSI con más de 3 años de experiencia en desarrollo full stack. Me 
 
 ### Idiomas 🌎
 - Español (Nativo)
-- **Inglés** (Intermedio)
+- **Inglés** (Basico)
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
